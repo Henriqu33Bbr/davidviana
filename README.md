@@ -1,5 +1,5 @@
 ## Olá, eu sou David Viana, sou estudante de programação front-end !! &#x1F60a;
-<div style="display: flex; flex-direction:row;" align="center">
+<div style="display: flex; flex-direction: row;" align="center">
   <a href="https://github.com/davidviana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidviana&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidviana&layout=compact&langs_count=7&theme=radical"/>
